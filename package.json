@@ -1,0 +1,22 @@
+{
+  "name": "new-test-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/deny17/test.git"
+  },
+  "author": "Denis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/deny17/test/issues"
+  },
+  "homepage": "https://bitbucket.org/deny17/test#readme",
+  "devDependencies": {
+    "webpack": "^5.70.0"
+  }
+}
